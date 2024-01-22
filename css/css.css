@@ -1,0 +1,30 @@
+a{
+    text-decoration: none;
+}
+
+p{font-family:cursive ;
+font-size: 20px;
+}
+a:hover{
+    color: blueviolet;
+    font-size: 30px;
+}
+a{
+    font-size: 20px;
+    border-bottom:darkgreen 16px solid ;
+}
+a:hover{
+    border-bottom: greenyellow 10px solid;
+}
+.timy:hover{
+    background-color:  #288c6b
+;
+}
+body{
+    background-color:  #a0e40c
+;
+}
+.yoo{
+    border: green 2px solid;
+    border-radius: 20px;
+}
